@@ -1,0 +1,17 @@
+platform :ios, '8.0'
+
+# Logging & Analytics
+pod 'Fabric'
+pod 'Crashlytics'
+
+# Storage
+pod 'FMDB'
+pod 'FMDBMigrationManager'
+
+# Various goodies
+pod 'RestKit/ObjectMapping'     # The best part of the great framework to handle XML and JSON mapping into model objects
+
+# Dependency Injection
+pod 'Typhoon'
+
+
